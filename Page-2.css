@@ -529,7 +529,6 @@
 }
 
 .u-section-3 .u-group-1 {
-  width: 80px;
   min-height: 80px;
   margin: 0 auto 0 0;
 }
@@ -711,7 +710,7 @@
   }
 
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: 100%;
+    grid-template-columns: 2;
   }
 
   .u-section-3 .u-container-layout-1 {
